@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+numpy
+scikit-learn
+python-dotenv
+sendgrid
+twilio
