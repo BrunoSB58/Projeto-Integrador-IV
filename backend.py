@@ -2,7 +2,6 @@ import os
 import requests
 import pandas as pd
 import numpy as np
-import qualRpy.qualR as qr
 from sklearn.linear_model import LinearRegression
 from datetime import datetime
 from dotenv import load_dotenv
